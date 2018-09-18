@@ -6,6 +6,7 @@ This example
 set count =0
 millimeter =25.4
 for count <15
+
    print count 
    count =count + 1
    print "enter a measrement"
@@ -33,7 +34,8 @@ End while
 Do 
 set count = 0
 millimeter =25.4
-print count 
+
+    print count 
     print "Enter the measrement"
     input measrement
     measurement* millimeter =result
