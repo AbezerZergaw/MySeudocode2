@@ -70,13 +70,13 @@ end for
 
 
 set count =0
-millimeter =25.5
+millimeter =25.4
 for count <3
    print count 
-  count =count + 1
-  print "enter a measrement"
-  input measurement
-  input * millimeter  =result
+   count =count + 1
+   print "enter a measrement"
+   input measurement
+   inputVaule * millimeter  =result
 Display result
 
 
@@ -85,21 +85,21 @@ End for
 
 
 set count = 0
-millimeter =25.5
+millimeter =25.4
 while 
   count <15
     print count 
     print "Enter the measrement"
     input measrement"
-    input * millimeter  =result
+    inputVaule * millimeter  =result
     Display result
 
 End while
-
+all result display
 
 Do 
 set count = 0
-millimeter =25.5
+millimeter =25.4
 print count 
     print "Enter the measrement"
     input measrement"
